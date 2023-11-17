@@ -1,6 +1,6 @@
 # calculadora con argparse
 
-ejecuta esto para una suma
+ejecuta esto para usar el codigo
 
 ```bash
 $python calculador_argparse.py --n1=numero1 para definir el numero 1
